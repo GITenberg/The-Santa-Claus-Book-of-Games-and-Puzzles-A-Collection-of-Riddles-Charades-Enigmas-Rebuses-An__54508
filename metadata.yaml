@@ -1,11 +1,16 @@
 _repo: The-Santa-Claus-Book-of-Games-and-Puzzles-A-Collection-of-Riddles-Charades-Enigmas-Rebuses-An__54508
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54508-h/images/cover_sm.jpg
 creator:
   author:
     agent_name: Tingley, John H.
     gutenberg_agent_id: '47907'
     url: http://www.gutenberg.org/2009/agents/47907
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54508#The-Santa-Claus-Book-of-Games-and-Puzzles-A-Collection-of-Riddles-Charades-Enigmas-Rebuses-An_
 gutenberg_issued: '2017-04-08'
 gutenberg_type: Text
 identifiers:
